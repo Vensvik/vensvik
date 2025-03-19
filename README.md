@@ -1,7 +1,9 @@
 ## Quem sou eu 👁
-- Formado em Psicologia, aprendendo sobre programação e seus derivados. ♟
+- Formado em Psicologia, ando aprendendo sobre programação e seus derivados. ♟
 - Atento a qualquer conselho que for proposto. ♟
-- Não me faça perder tempo.
+- Não me faça perder tempo. ♟
+- Foco em CyberSecurity. ♟
+- 🃏
 
 <!--
 **Vensvik/vensvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
