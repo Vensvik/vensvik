@@ -1,4 +1,5 @@
-## Hi there 👋
+## Formado em Psicologia 👁
+Estudando as raízes da vida e segurança da informação ♟
 
 <!--
 **Vensvik/vensvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
